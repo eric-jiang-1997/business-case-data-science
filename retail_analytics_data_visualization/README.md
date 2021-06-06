@@ -1,1 +1,2 @@
-This is 
+Background: 'Happy Cow Ice Cream' is a retail store at HKU (Hong Kong University). In this case, data-driven methods are employed to analyze the sales from April to September in one year. Insights and recommendations on the store's operations are provided followed by the analyses. \
+Methods: time series analysis, data visualization, statistical analysis.
